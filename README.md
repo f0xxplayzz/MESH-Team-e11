@@ -1,6 +1,7 @@
 # Titel: Go Green - The Next Mobility
 
 # Slogan: Mobilität einfach neu gedacht 
+![unknown](https://user-images.githubusercontent.com/79764135/109415657-41380380-79ba-11eb-95ea-b50a19857a21.png)
 
 
 # Nachhaltige Mobilität einfach machen, durch das Bündeln verschiedener Transportmöglichkeiten in ein APP
