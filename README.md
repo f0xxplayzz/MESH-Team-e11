@@ -5,11 +5,11 @@
 # Mobilität einfach neu gedacht 
 
 
-
-# Nachhaltige Mobilität einfach machen, durch das Bündeln verschiedener Transportmöglichkeiten in ein APP
-# Belohnungen und Anreize für nachhaltige Mobilität
-# Alle sauberen Verkehrsmittel in einer APP
-# Sammle Coins und bekomme Belohnungen durch nachhaltiges Handeln
+# Kurzbeschreibung
+- Nachhaltige Mobilität einfach machen, durch das Bündeln verschiedener Transportmöglichkeiten in ein APP
+- Belohnungen und Anreize für nachhaltige Mobilität
+- Alle sauberen Verkehrsmittel in einer APP
+- Sammle Coins und bekomme Belohnungen durch nachhaltiges Handeln
 
 ![2021-02-28-11-06-20](https://user-images.githubusercontent.com/79764135/109415711-89572600-79ba-11eb-96ee-e521cfb4fc21.gif)
 
